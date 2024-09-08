@@ -2,8 +2,8 @@ remote_theme: pages-themes/architect@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-title: Theresa & Simon Rezeptesammlung
-description: Ein paar Rezepte, die uns gut schmecken und wie wir gern weitergeben möchten
+title: Rezeptesammlung
+description: Ein paar Rezepte, die uns gut schmecken und wie wir gern weitergeben möchten :)
 show_downloads: true
 show_print: true
 buttons:
