@@ -4,7 +4,7 @@ plugins:
 
 title: Rezeptesammlung
 description: Ein paar Rezepte, die uns gut schmecken und wie wir gern weitergeben möchten :)
-show_downloads: true
+show_downloads: false
 show_print: true
 buttons:
   print: true
