@@ -1,5 +1,5 @@
 # Muhammara 
-*Paprika-Walnuss Dip/Creme/Aufstrich. haben wir im August `24 in Budapest gegessen und hat gut geschmeckt.*
+*Paprika-Walnuss Dip/Creme/Aufstrich. Haben wir im August `24 in Budapest gegessen und hat gut geschmeckt.*
 
 ![Muhammara Dip](./images/muhammara-dip.jpg)
 
@@ -30,3 +30,4 @@
 6. Semmelbrösel nach Bedarf hinzufügen, um die Konsistenz anzupassen (je nachdem, ob man es flüssiger oder fester mag).
 
 Guten Appetit!
+Theresa & Simon
