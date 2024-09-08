@@ -3,7 +3,7 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: Rezeptesammlung
-description: Ein paar Rezepte, die uns gut schmecken und wie wir gern weitergeben möchten :)
+description: Ein paar Rezepte, die uns gut schmecken und die wir gern weitergeben.
 show_downloads: false
 show_print: true
 buttons:
