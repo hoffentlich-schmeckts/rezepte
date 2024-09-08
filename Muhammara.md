@@ -1,7 +1,7 @@
 # Muhammara 
 *Paprika-Walnuss Dip/Creme/Aufstrich. haben wir im August `24 in Budapest gegessen und hat gut geschmeckt.*
 
-[Muhammara Dip](./images/muhammara-dip.jpg)
+![Muhammara Dip](./images/muhammara-dip.jpg)
 
 ## Zutaten:
 - 100 g Walnüsse
